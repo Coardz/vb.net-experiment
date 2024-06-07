@@ -1,0 +1,19 @@
+C:\Users\coardz\AppData\Local\Temporary Projects\test-lab\bin\Debug\test-lab.exe
+C:\Users\coardz\AppData\Local\Temporary Projects\test-lab\bin\Debug\test-lab.pdb
+C:\Users\coardz\AppData\Local\Temporary Projects\test-lab\bin\Debug\test-lab.xml
+C:\Users\coardz\AppData\Local\Temporary Projects\test-lab\obj\x86\Debug\test_lab.Resources.resources
+C:\Users\coardz\AppData\Local\Temporary Projects\test-lab\obj\x86\Debug\test-lab.vbproj.GenerateResource.Cache
+C:\Users\coardz\AppData\Local\Temporary Projects\test-lab\obj\x86\Debug\test-lab.exe
+C:\Users\coardz\AppData\Local\Temporary Projects\test-lab\obj\x86\Debug\test-lab.xml
+C:\Users\coardz\AppData\Local\Temporary Projects\test-lab\obj\x86\Debug\test-lab.pdb
+C:\Users\coardz\AppData\Local\Temporary Projects\test-lab\obj\x86\Debug\test_lab.frmLogicalOperator.resources
+C:\Users\coardz\repository\vb.net-experiment\test-lab\test-lab\obj\x86\Debug\test-lab.exe
+C:\Users\coardz\repository\vb.net-experiment\test-lab\test-lab\obj\x86\Debug\test-lab.xml
+C:\Users\coardz\repository\vb.net-experiment\test-lab\test-lab\obj\x86\Debug\test-lab.pdb
+C:\Users\coardz\repository\vb.net-experiment\test-lab\test-lab\bin\Debug\test-lab.exe
+C:\Users\coardz\repository\vb.net-experiment\test-lab\test-lab\bin\Debug\test-lab.pdb
+C:\Users\coardz\repository\vb.net-experiment\test-lab\test-lab\bin\Debug\test-lab.xml
+C:\Users\coardz\repository\vb.net-experiment\test-lab\test-lab\obj\x86\Debug\test_lab.frmLogicalOperator.resources
+C:\Users\coardz\repository\vb.net-experiment\test-lab\test-lab\obj\x86\Debug\test_lab.Resources.resources
+C:\Users\coardz\repository\vb.net-experiment\test-lab\test-lab\obj\x86\Debug\test-lab.vbproj.GenerateResource.Cache
+C:\Users\coardz\repository\vb.net-experiment\test-lab\test-lab\obj\x86\Debug\test_lab.frmLoops.resources
